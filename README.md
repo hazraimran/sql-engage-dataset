@@ -74,7 +74,7 @@ You may share and adapt the material for non-commercial research and educational
 If you use this dataset, please cite:  
 
 **APA Format**  
-Imran, H., & Wang, Y. (2025). *SQL-Engage: An Emotion-Aware Synthetic SQL Error Dataset for Adaptive Feedback and Engagement Modeling.* Adaptive Learning and Gamification Lab, Northeastern University Vancouver. https://github.com/hazra-imran/sql-engage-dataset  
+Imran, H., & Wang, Y. (2025). *SQL-Engage: An Emotion-Aware Synthetic SQL Error Dataset for Adaptive Feedback and Engagement Modeling.* Adaptive Learning and Gamification Lab, Northeastern University Vancouver. https://github.com/hazraimran/sql-engage-dataset  
 
 **BibTeX**  
 ```bibtex
