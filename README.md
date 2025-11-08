@@ -79,12 +79,13 @@ Imran, H., & Wang, Y. (2025). *SQL-Engage: An Emotion-Aware Synthetic SQL Error 
 **BibTeX**  
 ```bibtex
 @dataset{imran2025sqlengage,
-  title={SQL-Engage: An Emotion-Aware Synthetic SQL Error Dataset for Adaptive Feedback and Engagement Modeling},
-  author={Imran, Hazra and Wang, Yan},
-  year={2025},
-  institution={Northeastern University Vancouver, Adaptive Learning and Gamification Lab},
-  url={https://github.com/hazra-imran/sql-engage-dataset},
-  license={CC BY-NC 4.0}
+  title        = {SQL-Engage: An Emotion-Aware Synthetic SQL Error Dataset for Adaptive Feedback and Engagement Modeling},
+  author       = {Imran, Hazra and Wang, Yan},
+  year         = {2025},
+  institution  = {Northeastern University Vancouver, Adaptive Learning and Gamification Lab},
+  doi          = {10.5281/zenodo.17555894},
+  url          = {https://doi.org/10.5281/zenodo.17555894},
+  license      = {CC BY 4.0}
 }
 ```
 
